@@ -1,0 +1,26 @@
+{
+  "name": "wave-mvp-v1",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
+```
+```
+4. Commit new file
+```
+
+---
+
+### 3. vercel.json 만들기
+```
+1. Add file → Create new file
+2. 파일명: vercel.json
+3. 복붙:
